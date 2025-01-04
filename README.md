@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sindhu</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Salesforce and Mobile Application from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindhu-0102&label=Profile%20views&color=0e75b6&style=flat" alt="sindhu-0102" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Projects**
+- 🔭 I’m currently working on **Mobile application Development**
 
-- 🌱 I’m currently learning **Salesforce and Three.js**
+- 🌱 I’m currently learning **Salesforce and Devops**
 
-- 🤝 I’m looking for help with **Devops and Machine learning**
+- 🤝 I’m looking for help with **Devops**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Software Management**
 
 - 📫 How to reach me **sindhuaa2004@gmail.com**
 
